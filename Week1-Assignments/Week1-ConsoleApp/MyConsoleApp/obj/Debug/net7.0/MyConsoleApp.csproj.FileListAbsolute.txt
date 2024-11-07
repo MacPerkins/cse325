@@ -1,0 +1,14 @@
+C:\Users\macdp\Documents\byu-idaho\2024 Semesters\Fall 2024\CSE-325 .NET Development\Week1\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.exe
+C:\Users\macdp\Documents\byu-idaho\2024 Semesters\Fall 2024\CSE-325 .NET Development\Week1\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.deps.json
+C:\Users\macdp\Documents\byu-idaho\2024 Semesters\Fall 2024\CSE-325 .NET Development\Week1\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.runtimeconfig.json
+C:\Users\macdp\Documents\byu-idaho\2024 Semesters\Fall 2024\CSE-325 .NET Development\Week1\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.dll
+C:\Users\macdp\Documents\byu-idaho\2024 Semesters\Fall 2024\CSE-325 .NET Development\Week1\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.pdb
+C:\Users\macdp\Documents\byu-idaho\2024 Semesters\Fall 2024\CSE-325 .NET Development\Week1\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macdp\Documents\byu-idaho\2024 Semesters\Fall 2024\CSE-325 .NET Development\Week1\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.AssemblyInfoInputs.cache
+C:\Users\macdp\Documents\byu-idaho\2024 Semesters\Fall 2024\CSE-325 .NET Development\Week1\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.AssemblyInfo.cs
+C:\Users\macdp\Documents\byu-idaho\2024 Semesters\Fall 2024\CSE-325 .NET Development\Week1\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\macdp\Documents\byu-idaho\2024 Semesters\Fall 2024\CSE-325 .NET Development\Week1\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.dll
+C:\Users\macdp\Documents\byu-idaho\2024 Semesters\Fall 2024\CSE-325 .NET Development\Week1\MyConsoleApp\obj\Debug\net7.0\refint\MyConsoleApp.dll
+C:\Users\macdp\Documents\byu-idaho\2024 Semesters\Fall 2024\CSE-325 .NET Development\Week1\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.pdb
+C:\Users\macdp\Documents\byu-idaho\2024 Semesters\Fall 2024\CSE-325 .NET Development\Week1\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.genruntimeconfig.cache
+C:\Users\macdp\Documents\byu-idaho\2024 Semesters\Fall 2024\CSE-325 .NET Development\Week1\MyConsoleApp\obj\Debug\net7.0\ref\MyConsoleApp.dll

@@ -1,0 +1,4 @@
+C:\Users\macdp\Documents\byu-idaho\2024 Semesters\Fall 2024\CSE-325 .NET Development\Week1-Assignments\week1-assignment1\obj\Debug\net8.0\Week1-Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macdp\Documents\byu-idaho\2024 Semesters\Fall 2024\CSE-325 .NET Development\Week1-Assignments\week1-assignment1\obj\Debug\net8.0\Week1-Assignment1.AssemblyInfoInputs.cache
+C:\Users\macdp\Documents\byu-idaho\2024 Semesters\Fall 2024\CSE-325 .NET Development\Week1-Assignments\week1-assignment1\obj\Debug\net8.0\Week1-Assignment1.AssemblyInfo.cs
+C:\Users\macdp\Documents\byu-idaho\2024 Semesters\Fall 2024\CSE-325 .NET Development\Week1-Assignments\week1-assignment1\obj\Debug\net8.0\Week1-Assignment1.csproj.CoreCompileInputs.cache

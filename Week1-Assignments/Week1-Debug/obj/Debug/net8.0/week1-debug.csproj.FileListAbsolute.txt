@@ -1,0 +1,14 @@
+c:\Users\macdp\Documents\byu-idaho\2024 Semesters\Fall 2024\CSE-325 .NET Development\Week1-Assignments\Week1-Debug\bin\Debug\net8.0\week1-debug.exe
+c:\Users\macdp\Documents\byu-idaho\2024 Semesters\Fall 2024\CSE-325 .NET Development\Week1-Assignments\Week1-Debug\bin\Debug\net8.0\week1-debug.deps.json
+c:\Users\macdp\Documents\byu-idaho\2024 Semesters\Fall 2024\CSE-325 .NET Development\Week1-Assignments\Week1-Debug\bin\Debug\net8.0\week1-debug.runtimeconfig.json
+c:\Users\macdp\Documents\byu-idaho\2024 Semesters\Fall 2024\CSE-325 .NET Development\Week1-Assignments\Week1-Debug\bin\Debug\net8.0\week1-debug.dll
+c:\Users\macdp\Documents\byu-idaho\2024 Semesters\Fall 2024\CSE-325 .NET Development\Week1-Assignments\Week1-Debug\bin\Debug\net8.0\week1-debug.pdb
+c:\Users\macdp\Documents\byu-idaho\2024 Semesters\Fall 2024\CSE-325 .NET Development\Week1-Assignments\Week1-Debug\obj\Debug\net8.0\week1-debug.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\macdp\Documents\byu-idaho\2024 Semesters\Fall 2024\CSE-325 .NET Development\Week1-Assignments\Week1-Debug\obj\Debug\net8.0\week1-debug.AssemblyInfoInputs.cache
+c:\Users\macdp\Documents\byu-idaho\2024 Semesters\Fall 2024\CSE-325 .NET Development\Week1-Assignments\Week1-Debug\obj\Debug\net8.0\week1-debug.AssemblyInfo.cs
+c:\Users\macdp\Documents\byu-idaho\2024 Semesters\Fall 2024\CSE-325 .NET Development\Week1-Assignments\Week1-Debug\obj\Debug\net8.0\week1-debug.csproj.CoreCompileInputs.cache
+c:\Users\macdp\Documents\byu-idaho\2024 Semesters\Fall 2024\CSE-325 .NET Development\Week1-Assignments\Week1-Debug\obj\Debug\net8.0\week1-debug.dll
+c:\Users\macdp\Documents\byu-idaho\2024 Semesters\Fall 2024\CSE-325 .NET Development\Week1-Assignments\Week1-Debug\obj\Debug\net8.0\refint\week1-debug.dll
+c:\Users\macdp\Documents\byu-idaho\2024 Semesters\Fall 2024\CSE-325 .NET Development\Week1-Assignments\Week1-Debug\obj\Debug\net8.0\week1-debug.pdb
+c:\Users\macdp\Documents\byu-idaho\2024 Semesters\Fall 2024\CSE-325 .NET Development\Week1-Assignments\Week1-Debug\obj\Debug\net8.0\week1-debug.genruntimeconfig.cache
+c:\Users\macdp\Documents\byu-idaho\2024 Semesters\Fall 2024\CSE-325 .NET Development\Week1-Assignments\Week1-Debug\obj\Debug\net8.0\ref\week1-debug.dll

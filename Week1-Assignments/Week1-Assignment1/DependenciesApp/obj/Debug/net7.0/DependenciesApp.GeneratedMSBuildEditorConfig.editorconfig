@@ -1,0 +1,13 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DependenciesApp
+build_property.ProjectDir = C:\Users\macdp\Documents\byu-idaho\2024 Semesters\Fall 2024\CSE-325 .NET Development\Week1-Assignments\Week1-Assignment1\DependenciesApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
